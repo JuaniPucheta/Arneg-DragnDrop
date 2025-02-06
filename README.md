@@ -55,3 +55,6 @@ El objetivo es hacer coincidir correctamente las imágenes arrastrando la imagen
 - No te apresures, ¡cada intento cuenta!
 
 ¡Diviértete jugando ImageGame! 🎉
+
+### Créditos 🫡
+Este proyecto fue creado gracias a *bolt.new* y *stackblitz*.
